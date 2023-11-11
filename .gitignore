@@ -1,7 +1,0 @@
-.DS_Store
-/.build
-/*.xcodeproj
-xcuserdata/
-DerivedData/
-.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
-Packages/MicrophonePitchDetector/.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
